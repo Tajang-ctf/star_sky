@@ -1,2 +1,1 @@
-# star_sky
-璀璨星空
+https://cdn.jsdelivr.net/gh/Tajang-ctf/star_sky/
